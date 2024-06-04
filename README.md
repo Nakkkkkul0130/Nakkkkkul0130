@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
-<h1 align="center">Hi 👋, I'm Nakul Bhar</h1>
+<h1 align="center">Hi <img src="https://media3.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif?cid=ecf05e47o3q4k7laqprqnh89n52pqjbjnjrlefgdtfz3ulzt&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"">, I'm Nakul Bhar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nakkkkkul0130&label=Profile%20views&color=0e75b6&style=flat" alt="nakkkkkul0130" /> </p>
