@@ -27,4 +27,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakkkkkul0130&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nakkkkkul0130&" alt="nakkkkkul0130" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nakkkkkul0130&" alt="Nakkkkkul0130" /></p>
