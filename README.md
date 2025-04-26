@@ -1,5 +1,3 @@
-<h4>🏡 Belong to Rohtak, Haryana</h4>
-
 <h1 align="center">
   <p align="center">
    <a href="https://git.io/typing-svg" target="_blank">
