@@ -59,12 +59,16 @@
 ---
 
 ## 📊 GitHub Stats:
+
 <p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nakkkkkul0130&theme=dark&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=Nakkkkkul0130&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </p>
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakkkkkul0130&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakkkkkul0130&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
+
 
 ---
 
