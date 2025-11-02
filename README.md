@@ -1,3 +1,4 @@
+<!-- Header Section -->
 <h1 align="center">
   <p align="center">
    <a href="https://git.io/typing-svg" target="_blank">
@@ -6,7 +7,7 @@
   </p>
 </h1>
 
-<h3 align="center">A Passionate Software Developer and Tech Explorer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer and Tech Explorer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nakkkkkul0130&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -14,26 +15,31 @@
 
 ---
 
+<!-- About Section -->
 ### 👨‍💻 About Me
 - I’m a **Full Stack Developer** with a strong foundation in **React, Node.js, Express, and MongoDB**  
 - Currently learning **DevOps fundamentals** — including **CI/CD pipelines, Jenkins, Docker, and Kubernetes**  
 - Exploring **AI/ML** concepts such as **LangChain, LLMs, and Retrieval-Augmented Generation (RAG)**  
 - Focused on improving **Data Structures and Algorithms** for efficient problem-solving  
 - Open to discussions on **Web Development**, **System Design**, and **Emerging Tech Trends**  
-- 📫 Reach me at **[nakulbhar7308@gmail.com](mailto:nakulbhar7308@gmail.com)**
+- 📫 Reach me at **[nakulbhar7308@gmail.com](mailto:nakulbhar7308@gmail.com)**  
 
 ---
 
+<!-- Connect Section -->
 ## 🌐 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/WP4keGMBDt)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nakul_bhar0130)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nakul-bhar0130)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/nakul-248)
-[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20837126)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Nakulbhar001)
+<p align="left">
+  <a href="https://discord.gg/WP4keGMBDt"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
+  <a href="https://instagram.com/nakul_bhar0130"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/nakul-bhar0130"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://quora.com/profile/nakul-248"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/20837126"><img src="https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
+  <a href="https://x.com/Nakulbhar001"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
+</p>
 
 ---
 
+<!-- Tech Stack -->
 ## 🚀 Tech Stack & Tools
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -59,27 +65,42 @@
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
 
+
 ---
 
+<!-- GitHub Stats -->
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nakkkkkul0130&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Nakkkkkul0130&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nakkkkkul0130&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakkkkkul0130&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nakkkkkul0130&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakkkkkul0130&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
+<!-- Developer Quotes -->
+## 💡 Random Developer Quote
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+---
+
+<!-- GitHub Trophies -->
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nakkkkkul0130&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nakkkkkul0130&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
 
+<!-- Footer -->
 <h3 align="center">"Keep Learning. Keep Building. Keep Growing."</h3>
 
-<p align="center">Thanks for visiting! Let's connect and innovate together.</p>
+<p align="center">✨ Thanks for visiting! Let's connect and innovate together 🚀</p>
