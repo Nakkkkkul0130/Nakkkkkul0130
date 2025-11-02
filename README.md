@@ -1,11 +1,15 @@
-<!-- Header Section -->
 <h1 align="center">
   <p align="center">
-   <a href="https://git.io/typing-svg" target="_blank">
-     <img src="https://readme-typing-svg.herokuapp.com?size=30&color=000000&lines=Hey+there!+I'm+Nakul+Bhar;Full+Stack+Developer+%26+Tech+Enthusiast;Learning+DevOps+%26+AI+Concepts;Welcome+to+my+GitHub!&font=bold">
-   </a>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45" height="45" style="vertical-align: middle; margin-right: 10px;" alt="Waving hand" />
+    <a href="https://git.io/typing-svg" target="_blank">
+      <img src="https://readme-typing-svg.herokuapp.com?size=30&color=000000&lines=Hey+there!+I'm+Nakul+Bhar;Full+Stack+Developer+%26+Tech+Enthusiast;Learning+DevOps+%26+AI+Concepts;Welcome+to+my+GitHub!&font=bold" alt="Typing SVG" />
+    </a>
   </p>
 </h1>
+
+
+
+
 
 <h3 align="center">A Passionate Full Stack Developer and Tech Explorer from India 🇮🇳</h3>
 
@@ -18,7 +22,7 @@
 <!-- About Section -->
 ### 👨‍💻 About Me
 - I’m a **Full Stack Developer** with a strong foundation in **React, Node.js, Express, and MongoDB**  
-- Currently learning **DevOps fundamentals** — including **CI/CD pipelines, Jenkins, Docker, and Kubernetes**  
+- Currently mastering **DevOps fundamentals** — including **CI/CD pipelines, Jenkins, Docker, and Kubernetes**  
 - Exploring **AI/ML** concepts such as **LangChain, LLMs, and Retrieval-Augmented Generation (RAG)**  
 - Focused on improving **Data Structures and Algorithms** for efficient problem-solving  
 - Open to discussions on **Web Development**, **System Design**, and **Emerging Tech Trends**  
