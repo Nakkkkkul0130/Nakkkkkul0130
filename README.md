@@ -1,13 +1,7 @@
 <h1 align="center">
-  <p align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45" height="45" style="vertical-align: middle; margin-right: 10px;" alt="Waving hand" />
-    <a href="https://git.io/typing-svg" target="_blank">
-      <img src="https://readme-typing-svg.herokuapp.com?size=30&color=000000&lines=Hey+there!+I'm+Nakul+Bhar;Full+Stack+Developer+%26+Tech+Enthusiast;Learning+DevOps+%26+AI+Concepts;Welcome+to+my+GitHub!&font=bold" alt="Typing SVG" />
-    </a>
-  </p>
+  <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="50" height="50" style="vertical-align: middle; margin-right: 10px;" alt="Waving hand" />
+  Hey, I'm Nakul Bhar
 </h1>
-
-
 
 
 
