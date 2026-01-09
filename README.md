@@ -65,17 +65,24 @@
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nakkkkkul0130&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nakkkkkul0130&theme=great-gatsby&layout=compact" 
+  height="170"
+/>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nakkkkkul0130&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=nakkkkkul0130&theme=great-gatsby&show_icons=true&locale=en" 
+  height="170"
+/>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakkkkkul0130&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
+<br/><br/>
+
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nakkkkkul0130&radius=16&theme=redical&area=true&order=5" 
+    height="300" 
+  />
+</div>
 
 ---
 
@@ -89,9 +96,13 @@
 
 <!-- GitHub Trophies -->
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nakkkkkul0130&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=nakkkkkul0130" />
+</div>
+
+
+
+
 
 ---
 
