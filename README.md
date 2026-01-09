@@ -15,7 +15,7 @@
 
 <!-- About Section -->
 ### 👨‍💻 About Me
-- I’m a **Full Stack Developer** with a strong foundation in **React, Node.js, Express, and MongoDB**  
+- I’m a **Full Stack Developer** with a strong foundation in **React.js, Node.js, Express.js, and MongoDB**  
 - Currently mastering **DevOps fundamentals** — including **CI/CD pipelines, Jenkins, Docker, and Kubernetes**  
 - Exploring **AI/ML** concepts such as **LangChain, LLMs, and Retrieval-Augmented Generation (RAG)**  
 - Focused on improving **Data Structures and Algorithms** for efficient problem-solving  
