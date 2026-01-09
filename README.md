@@ -75,8 +75,6 @@
   height="170"
 />
 
-<br/><br/>
-
 <div align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=nakkkkkul0130&radius=16&theme=redical&area=true&order=5" 
